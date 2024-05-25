@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Poetsen+One&display=swap');
+h1,p,h2{
+    font-family:  "Oswald", sans-serif;
+    color: #153448;
+}
+.icon{
+    color: #524C42;
+}
+/*"Pacifico", cursive;
+/*"Poetsen One", sans-serif;
